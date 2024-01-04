@@ -2444,6 +2444,11 @@ body {
   .btn-linkedin:hover, .btn-linkedin:focus, .btn-linkedin:active {
     color: #00669c; }
 
+.btn-gmail {
+  color: #0077B5; }
+    .btn-gmail:hover, .btn-gmail:focus, .btn-gmail:active {
+      color: #00669c; }
+
 .nav-tabs {
   border: 0;
   padding: 15px 0.7rem; }
